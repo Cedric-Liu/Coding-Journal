@@ -1,0 +1,5 @@
+{
+  "main_test.py::test_handle_spotify": true,
+  "music1030/billboard_test.py": true,
+  "music1030/spotify_test.py": true
+}
